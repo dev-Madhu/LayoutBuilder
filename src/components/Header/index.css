@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.header {
+  text-align: center;
+  align-self: stretch;
+  background-color: #cbd5e1;
+  width: 100%;
+  margin-top: 64px;
+}
+
+.header-heading {
+  font-size: 26px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #475569;
+}

@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.config-container {
+  background-color: #475569;
+  color: #fff;
+  font-family: 'Roboto';
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+.input-label {
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  margin-left: 10px;
+}
+
+.heading {
+  font-size: 36px;
+  font-weight: bold;
+  color: #fff;
+  font-family: 'Roboto';
+}
+
+.label-box {
+  display: flex;
+  align-items: center;
+  margin: 10px;
+}
